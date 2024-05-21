@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskForce_WebAPI_EF.props" />
+</Project>
